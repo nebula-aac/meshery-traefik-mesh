@@ -10,10 +10,10 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-traefik-mesh)](https://goreportcard.com/report/github.com/meshery/meshery-traefik-mesh)
 [![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-traefik-mesh/release-drafter.yml)](https://github.com/meshery/meshery-traefik-mesh/actions)
 [![GitHub](https://img.shields.io/github/license/meshery/meshery-traefik-mesh.svg)](LICENSE)
-[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-traefik-mesh/help%20wanted.svg)](https://github.com/meshery/meshery-traefik-mesh/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
-[![Website](https://img.shields.io/website/https/meshery.io/meshery.svg)](https://meshery.io/meshery/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/meshery.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
-[![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](http://slack.meshery.io)
+[![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-traefik-mesh/help%20wanted.svg)](https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22)
+[![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://layer5.io/meshery/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/layer5.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
+[![Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](http://slack.meshery.io)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
 
 <p style="clear:both;">
@@ -59,7 +59,7 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 ✔️ <em><strong>Discuss</strong></em> in the <a href="https://discuss.meshery.io">Community Forum</a>.<br />
 </p>
 <p align="center">
-<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen+is%3Aissue+archived%3Afalse+org%3Alayer5io+org%3Ameshery+org%3Aservice-mesh-performance+org%3Aservice-mesh-patterns+label%3A%22help+wanted%22+">help-wanted label</a>.
+<i>Not sure where to start?</i> Grab an open issue with the <a href="https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22">help-wanted label</a>.
 </p>
 
 **License**
