@@ -6,9 +6,9 @@
 
 # Meshery Adapter for Traefik Mesh
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/layer5/meshery.svg)](https://hub.docker.com/r/layer5/meshery-maesh)
-[![Go Report Card](https://goreportcard.com/badge/github.com/layer5io/meshery-traefik-mesh)](https://goreportcard.com/report/github.com/layer5io/meshery-traefik-mesh)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-traefik-mesh/release-drafter.yml)](https://github.com/layer5io/meshery-traefik-mesh/actions)
+[![Docker Pulls](https://img.shields.io/docker/pulls/meshery/meshery.svg)](https://hub.docker.com/r/meshery/meshery-maesh)
+[![Go Report Card](https://goreportcard.com/badge/github.com/meshery/meshery-traefik-mesh)](https://goreportcard.com/report/github.com/meshery/meshery-traefik-mesh)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-traefik-mesh/release-drafter.yml)](https://github.com/meshery/meshery-traefik-mesh/actions)
 [![GitHub](https://img.shields.io/github/license/meshery/meshery-traefik-mesh.svg)](LICENSE)
 [![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-traefik-mesh/help%20wanted.svg)](https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22)
 [![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://layer5.io/meshery/)
@@ -50,12 +50,12 @@ Our projects are community-built and welcome collaboration. 👍 Be sure to see 
 </picture>
 </a>
 
-<a href="https://meshery.io/community"><img alt="Layer5 Cloud Native Community" src="img/readme/community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
+<a href="https://meshery.io/community"><img alt="Meshery Cloud Native Community" src="img/readme/community.svg" style="margin-right:8px;padding-top:5px;" width="140px" align="left" /></a>
 
 <p>
 ✔️ <em><strong>Join</strong></em> any or all of the weekly meetings on <a href="https://meshery.io/calendar">community calendar</a>.<br />
 ✔️ <em><strong>Watch</strong></em> community <a href="https://www.youtube.com/@mesheryio?sub_confirmation=1">meeting recordings</a>.<br />
-✔️ <em>Fill-in</em> a <a href="https://layer5.io/newcomers">community member form</a> to gain access to community resources.<br />
+✔️ <em>Fill-in</em> a <a href="https://meshery.io/newcomers">community member form</a> to gain access to community resources.<br />
 ✔️ <em><strong>Discuss</strong></em> in the <a href="https://discuss.meshery.io">Community Forum</a>.<br />
 </p>
 <p align="center">
