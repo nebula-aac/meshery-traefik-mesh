@@ -91,8 +91,8 @@ jobs:
           run: |
             pretty=$(jq . data.json)
             rm data.json
-            mkdir -p ./docs/_compatibility/meshery-traefik-mesh
-            cd ./docs/_compatibility/meshery-traefik-mesh
+            mkdir -p ./docs/content/en/project/compatibility/meshery-traefik-mesh
+            cd ./docs/content/en/project/compatibility/meshery-traefik-mesh
             touch data.json
             echo $pretty > data.json
             cat data.json
