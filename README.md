@@ -11,9 +11,9 @@
 [![Build Status](https://img.shields.io/github/actions/workflow/status/meshery/meshery-traefik-mesh/release-drafter.yml)](https://github.com/meshery/meshery-traefik-mesh/actions)
 [![GitHub](https://img.shields.io/github/license/meshery/meshery-traefik-mesh.svg)](LICENSE)
 [![GitHub issues by-label](https://img.shields.io/github/issues/meshery/meshery-traefik-mesh/help%20wanted.svg)](https://github.com/issues?q=is%3Aopen%20is%3Aissue%20archived%3Afalse%20(org%3Ameshery%20OR%20org%3Aservice-mesh-performance%20OR%20org%3Aservice-mesh-patterns%20OR%20org%3Ameshery-extensions)%20label%3A%22help%20wanted%22)
-[![Website](https://img.shields.io/website/https/layer5.io/meshery.svg)](https://layer5.io/meshery/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/layer5.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
-[![Slack](https://img.shields.io/badge/Slack-@layer5.svg?logo=slack)](http://slack.meshery.io)
+[![Website](https://img.shields.io/website.svg?url=https%3A%2F%2Fmeshery.io)](https://meshery.io)
+[![Twitter Follow](https://img.shields.io/twitter/follow/meshery.svg?label=Follow&style=social)](https://twitter.com/intent/follow?screen_name=mesheryio)
+[![Slack](https://img.shields.io/badge/Slack-@meshery.svg?logo=slack)](http://slack.meshery.io)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/3564/badge)](https://bestpractices.coreinfrastructure.org/projects/3564)
 
 <p style="clear:both;">
