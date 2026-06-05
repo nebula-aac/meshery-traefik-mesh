@@ -1,4 +1,4 @@
-FROM golang:1.19 as builder
+FROM golang:1.26.4 as builder
 
 ARG VERSION
 ARG GIT_COMMITSHA
